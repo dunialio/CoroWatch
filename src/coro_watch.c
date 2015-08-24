@@ -100,7 +100,7 @@ static TextLayer * my_create_layer(GRect rect, char *font, GAlign align, GColor 
   return layer;
 }
 
-// corowatch
+// CoroWatch
 static void do_init(void) {
 
   // gawe modelmu nek kene joo 
