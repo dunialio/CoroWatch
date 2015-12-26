@@ -12,9 +12,9 @@ static const char* const HOURS[] = {
 	"pitu",
 	"wolu",
 	"songo",
-  "spuloh",
-  "swelas",
-  "rolas"
+	"spuloh",
+	"swelas",
+	"rolas"
 };
 
 //menit
